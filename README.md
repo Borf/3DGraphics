@@ -9,3 +9,4 @@ Dit is een lessenpakket over 3D Graphics met OpenGL. Deze documentatie is beschi
 - [Geometry Shaders](geometry)
 - [Shadows](shadows)
 - [Skeletal Animation](skeletalanimation)
+- [Legacy](legacy)
